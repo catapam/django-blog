@@ -10,3 +10,4 @@ docs/
 tests/
 README.md
 .git/
+venv/
