@@ -11,3 +11,4 @@ tests/
 README.md
 .git/
 venv/
+env.py
