@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+node_modules/
+*.log
+*.sqlite3
+*.env
+tmp/
+log/
+docs/
+tests/
+README.md
+.git/
